@@ -86,6 +86,8 @@
     <Content Include="Sample.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Sorting\Distinct.py" />
+    <Content Include="Sorting\MaxProductOfThree.py" />
     <TypeScriptCompile Include="cyclic-rotation.ts" />
     <Content Include="odd-occurrence.js" />
   </ItemGroup>
