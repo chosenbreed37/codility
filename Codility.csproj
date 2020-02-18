@@ -72,6 +72,8 @@
     <Compile Include="PreFixSums\GenomicRangeQueryTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sorting\IntersectingDiscsTest.cs" />
+    <Compile Include="Sorting\IntersectingDiscs.cs" />
     <Compile Include="Sorting\Triangle.cs" />
     <Compile Include="Sorting\TriangleTest.cs" />
     <Compile Include="TapeEquilibrium.cs" />
