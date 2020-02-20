@@ -90,6 +90,7 @@
     </Content>
     <Content Include="Sorting\Distinct.py" />
     <Content Include="Sorting\MaxProductOfThree.py" />
+    <Content Include="StacksQueues\Fish.js" />
     <Content Include="StacksQueues\Brackets.js" />
     <TypeScriptCompile Include="cyclic-rotation.ts" />
     <Content Include="odd-occurrence.js" />
