@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="cyclic-rotation.js" />
+    <Content Include="Leader\Dominator.py" />
     <Content Include="Sample.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
